@@ -18,7 +18,7 @@ This project analyzes the Superstore dataset using SQL.
 ## Project Structure
 sql-superstore-analysis
 | - 
-| - ---project superstore analysis.sql
+| - ___Project superstore analysis.sql
 | - ___README.md
 
 Goal:
