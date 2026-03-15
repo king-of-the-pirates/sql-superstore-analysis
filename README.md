@@ -1,8 +1,8 @@
-# sql-superstore-analysis
+# SQL-superstore-analysis
 
 This project analyzes the Superstore dataset using SQL.
 
-## skills used:
+## Skills used:
 - GROUP BY
 - JOINS
 - AGGREGATE FUNCTIONS
@@ -16,7 +16,7 @@ This project analyzes the Superstore dataset using SQL.
 - Time based analysis
 
 ## Project Structure
-sql-superstore-analysis
+SQL-superstore-analysis
 | - 
 | - ___Project superstore analysis.sql
 | - ___README.md
