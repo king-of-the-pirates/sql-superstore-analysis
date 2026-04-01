@@ -143,7 +143,7 @@
                 
 --      I CANNOT USE A WINDOW FUNCTION RESULT LIKE SALES RANK IN a where clause in the same
 --      query.
---      SQL processes WHERE before it processe the window function. BY putting
+--      SQL processes WHERE before it processes the window function. BY putting
 --      the ranking aside a CTE (the with block),
 --      i froze that calculation so i can filter it in 
 --      the final SELECT
